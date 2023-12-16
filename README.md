@@ -1,2 +1,2 @@
 # auto-commands
-Script sencillo que ejecuta comando(s) en servidores remotos
+Script sencillo para ejecutar comando(s) en servidores remotos y captuarar sus salidas
